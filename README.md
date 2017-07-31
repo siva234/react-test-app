@@ -1,12 +1,12 @@
 # react-apollo-graphql-github-example
-Apollo React example for Github GraphQL API with [create-react-app](https://github.com/facebookincubator/create-react-app)
+Apollo React example for Github GraphQL API with [create-react-app](https://github.com/facebookincubator/create-react-app). The code is retriving the data but there are bugs after that while processing the data obtained.
 
-![](ss.png)
 
 ## Prerequsite
 - git
 - nodejs
 - [Integrations Early Access](https://developer.github.com/changes/2016-09-14-Integrations-Early-Access/)
+- enable cross domain access on your browser.
 
 ## Install
 ```sh
@@ -22,14 +22,9 @@ npm i
 ```sh
 npm start
 ```
-> For `VSCode` you can press `F5` to run :)
-
-## More examples
-- [Search for top ten stargazers](https://gist.github.com/katopz/2729ace879e3576e8da9292cc8433673)
-- [Search for top ten stargazers via query](https://gist.github.com/katopz/7441f90696b3586f8ec2d673b88dc4be)
-
 ## Referer
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
 - [The new GitHub GraphQL API](https://medium.com/apollo-stack/the-new-github-graphql-api-811b005d1b6e#.lcm2mmtn2)
 - [Github GraphQL API React Example](https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61#.fil01xjsl)
 - [🔍 How to search with Github GraphQL](https://medium.com/@katopz/how-to-search-with-github-graphql-e6c142dc61ed)
+- [Github graphql example](https://github.com/apollographql/GitHub-GraphQL-API-Example)
