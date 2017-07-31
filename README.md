@@ -1,4 +1,4 @@
-# react-apollo-graphql-github-example
+# react-test-app
 Apollo React example for Github GraphQL API with [create-react-app](https://github.com/facebookincubator/create-react-app). The code is retriving the data but there are bugs after that while processing the data obtained.
 
 
@@ -10,8 +10,8 @@ Apollo React example for Github GraphQL API with [create-react-app](https://gith
 
 ## Install
 ```sh
-git clone https://github.com/katopz/react-apollo-graphql-github-example.git
-cd react-apollo-graphql-github-example
+git clone https://github.com/siva234/react-test-app.git
+cd react-test-app
 npm i
 ```
 
